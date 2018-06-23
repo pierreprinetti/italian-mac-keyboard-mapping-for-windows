@@ -1,4 +1,4 @@
-# itaqrawl
+# Italian Mac keyboard mapping for Windows
 An OSX-fashioned Windows Italian keyboard mapping.
 
 Just a standard keyboard, with two exceptions:
